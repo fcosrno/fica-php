@@ -1,6 +1,6 @@
 # Fica
 
-PHP class to return Social Security and Medicare amounts from a give number.
+PHP class to return Social Security and Medicare amounts from a given number.
 
 ## Example
 There is a working example in example/index.php
