@@ -5,6 +5,10 @@ PHP class to return Social Security and Medicare amounts from a give number.
 ## Example
 There is a working example in example/index.php
 
+## Installation
+
+	composer install fcosrno/fica-php
+
 ## Usage
 
 Instantiate the class passing an amount (in cents). An exception is thrown if the amount is not an integer.

@@ -1,4 +1,15 @@
 {
+	"name": "fcosrno/fica-php",
+    "description": "PHP class to return Social Security and Medicare amounts from a give number.",
+    "type": "class",
+    "keywords": [ "fica","tax","social security","medicare" ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Francisco Serrano",
+            "email": "fserrano@gmail.com"
+        }
+    ],
     "require-dev": {
         "phpspec/phpspec": "~2.0"
     },
