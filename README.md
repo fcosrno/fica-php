@@ -7,7 +7,7 @@ There is a working example in example/index.php
 
 ## Installation
 
-	composer install fcosrno/fica-php
+	composer require fcosrno/fica-php
 
 ## Usage
 
