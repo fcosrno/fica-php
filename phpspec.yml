@@ -1,0 +1,6 @@
+suites:
+  fcosrno_suite:
+    namespace: Fcosrno
+    src_path: src
+    spec_path: ./
+    spec_prefix: spec
